@@ -155,6 +155,7 @@ function addTask() {
 ```
 
 ## OUTPUT
+<img width="1907" height="832" alt="image" src="https://github.com/user-attachments/assets/07d34073-84d3-4006-9e52-f08a9464422d" />
 
 
 ## RESULT
