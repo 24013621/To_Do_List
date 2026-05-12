@@ -36,7 +36,9 @@ Deploy the website.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-
+```
+index.html
+```
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -61,6 +63,9 @@ Upload to GitHub Pages for free hosting.
 <script src="script.js"></script>
 </body>
 </html>
+```
+```
+style.css
 ```
 ```
 body {
@@ -122,6 +127,9 @@ li:hover {
     text-decoration: line-through;
     color: gray;
 }
+```
+```
+script.js
 ```
 ```
 function addTask() {
